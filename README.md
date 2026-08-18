@@ -31,9 +31,9 @@ smarter trading strategies.
   consistency
 
 ## Key Insights
-1. Fear days showed higher average PnL (5,329) than Greed days (3,318), 
+1. Fear days showed higher average PnL ($5,329) than Greed days ($3,318), 
    contrary to common assumptions
-2. Greed days carried the highest tail risk (min PnL of -358,963) 
+2. Greed days carried the highest tail risk (min PnL of $-358,963) 
    despite looking safer on average
 3. Trade frequency was the strongest predictor of profitability across 
    all sentiment regimes — frequent traders outperformed infrequent 
