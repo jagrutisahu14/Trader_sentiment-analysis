@@ -8,6 +8,10 @@ smarter trading strategies.
 1. Bitcoin Fear/Greed Index (Date, Classification)  - https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
 2. Hyperliquid Historical Trader Data (2,300+ trader-day records) - https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
+> **Note:** Due to file size, datasets are hosted externally. Download 
+> both files and place them in the same directory as the notebook 
+> before running.
+
 ## Key Charts
 
 ### Average PnL by Market Sentiment
