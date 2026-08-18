@@ -5,8 +5,8 @@ behavior and performance on Hyperliquid, uncovering patterns for
 smarter trading strategies.
 
 ## Datasets
-1. Bitcoin Fear/Greed Index (Date, Classification)
-2. Hyperliquid Historical Trader Data (2,300+ trader-day records)
+1. Bitcoin Fear/Greed Index (Date, Classification)  - https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+2. Hyperliquid Historical Trader Data (2,300+ trader-day records) - https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
 
 ## Key Charts
 
