@@ -15,13 +15,13 @@ smarter trading strategies.
 ## Key Charts
 
 ### Average PnL by Market Sentiment
-![PnL by Sentiment] (insight1_pnl_by_sentiment.png)
+![PnL by Sentiment](insight1_pnl_by_sentiment.png)
 
 ### Frequent vs Infrequent Traders
-![Frequency Segment] (insight2_frequency_segment.png)
+![Frequency Segment](insight2_frequency_segment.png)
 
 ### Average Return vs Tail Risk
-![Tail Risk] (insight3_tail_risk.png)
+![Tail Risk](insight3_tail_risk.png)
 
 ## Methodology
 - Cleaned and merged both datasets by aligning timestamps to daily level
