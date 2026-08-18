@@ -1,6 +1,4 @@
 # Trader Performance vs Market Sentiment Analysis
-Analysis of trader behavior vs market sentiment using Hyperliquid data
-
 ## Objective
 Analyzed how Bitcoin market sentiment (Fear/Greed) relates to trader 
 behavior and performance on Hyperliquid, uncovering patterns for 
